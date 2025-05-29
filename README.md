@@ -1,7 +1,7 @@
 Entity Resolution Experiment: Similarity Search Algorithm Comparison Overview
 
 
-This project explores and compares two unsupervised clustering models for entity resolution, focusing on both accuracy and computational performance. The goal is to inform high-level system design for production environments by evaluating direct string comparison and vector-based similarity search methods.
+This project explores and compares two unsupervised learning models for entity resolution, focusing on both accuracy and computational performance. The goal is to inform high-level system design for production environments by evaluating direct string comparison and vector-based similarity search methods.
 
 Models Tested
 1. Native String Similarity Search (Levenshtein Distance)
